@@ -1,7 +1,7 @@
 Hello!  I create Tripal modules for use on [Hardwood Genomics](hardwoodgenomics.org).  This site is to showcase what I've made, and give **you**, a fellow Tripal site maintainer, a place to see my work in one place.
 
 
-I'd really love to collaborate.  Most of these modules were developed in partnership with @Almsaeed who is a blast to work with.  Interested in using one of my modules, but need an extra feature?  Reach out, here or on the project repo!
+I'd really love to collaborate.  Most of these modules were developed in partnership with Abdullah Almsaeed who is a blast to work with.  Interested in using one of my modules, but need an extra feature?  Reach out, here or on the project repo!
 
 
 # Modules I maintain
