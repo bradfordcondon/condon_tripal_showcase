@@ -43,7 +43,6 @@ I'd really love to collaborate.  Most of these modules were developed in partner
 ### [Tripal Analysis Expression](https://github.com/tripal/tripal_analysis_expression)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1115662.svg)](https://doi.org/10.5281/zenodo.1115662)
 
-
 This is a huge module that we've split into three submodules:
 
 #### Tripal Biomaterial
