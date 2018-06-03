@@ -4,6 +4,7 @@ Hello!  I create Tripal modules for use on [Hardwood Genomics](hardwoodgenomics.
 I'd really love to collaborate.  Most of these modules were developed in partnership with Abdullah Almsaeed who is a blast to work with.  Interested in using one of my modules, but need an extra feature?  Reach out, here or on the project repo!
 
 >![tripal cards](/tripal_cards.jpg)
+>
 > Some of our production ready Tripal modules. 
 
 # Modules I maintain
