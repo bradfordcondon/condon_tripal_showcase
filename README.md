@@ -8,7 +8,11 @@ I'd really love to collaborate.  Most of these modules were developed in partner
 
 ## Developer Tools
 
-### Tripal Devseed
+### [Tripal Devseed](https://github.com/statonlab/tripal_dev_mini_dataset)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1252453.svg)](https://doi.org/10.5281/zenodo.1252453)
+
+
 * Miniature dataset to load all supported Chado data.
 * Detailed, step-by-step guide for loading in Tripal 3.
 * SQL dump to quickly boot a dev site with data.
@@ -21,13 +25,17 @@ I'd really love to collaborate.  Most of these modules were developed in partner
 * Specify a CVterm, and this tool creates the Field class, formatter, widget, and `fields.info` stub code for it!
 * Connects to your DB to verify term information.
 
-### TripalDock
+### [TripalDock](https://github.com/statonlab/tripaldock)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1187125.svg)](https://doi.org/10.5281/zenodo.1187125)
+
 * Wraps a Docker container running Tripal.  
 * Ideal for getting new developers up and running quickly.
 
 ## Biological Data
 
-### Tripal Analysis Expression
+### [Tripal Analysis Expression](https://github.com/tripal/tripal_analysis_expression)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1115662.svg)](https://doi.org/10.5281/zenodo.1115662)
+
 
 This is a huge module that we've split into three submodules:
 
@@ -58,7 +66,10 @@ This is a huge module that we've split into three submodules:
 * Not released, on hiatus.
 * Load and display gene ortholog information.
 
-### Tripal Elasticsearch
+### [Tripal Elasticsearch](https://github.com/tripal/tripal_elasticsearch/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1222187.svg)](https://doi.org/10.5281/zenodo.1222187)
+
+
 * Manage your elasticsearch instance.
 * Provides indexes for nodes, entities, and features. 
 * Easily create Chado table specific indexes.
@@ -73,7 +84,10 @@ This is a huge module that we've split into three submodules:
 
 
 ## Site Admin
-### Tripal Alchemist
+
+### [Tripal Alchemist](https://github.com/statonlab/tripal_alchemist)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1187120.svg)](https://doi.org/10.5281/zenodo.1187120)
+
 * Convert Tripal Entities from one bundle to another.
 * Used at HWG to change feature types, or to convert analyses to sub-types with specialized fields.
 * Supports **collections** to easily convert entities.
