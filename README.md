@@ -17,11 +17,15 @@ I'd really love to collaborate.  Most of these modules were developed in partner
 * Detailed, step-by-step guide for loading in Tripal 3.
 * SQL dump to quickly boot a dev site with data.
 
-### Tripal Test Suite
+### [Tripal Test Suite](https://github.com/statonlab/TripalTestSuite)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1257164.svg)](https://doi.org/10.5281/zenodo.1257164)
+
 * One command to add PHPunit with access to your Drupal site, and Travis-CI setup.
 * Helper methods, such as **factories** to generate test Chado data.
 
-### Tripal Fields Generator
+### [Tripal Fields Generator](https://github.com/statonlab/fields_generator)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1200662.svg)](https://doi.org/10.5281/zenodo.1200662)
+
 * Specify a CVterm, and this tool creates the Field class, formatter, widget, and `fields.info` stub code for it!
 * Connects to your DB to verify term information.
 
@@ -53,15 +57,16 @@ This is a huge module that we've split into three submodules:
 * Deals with the Protocol, Assay, Arraydesign MAGE tables.
 * Needs collaborators!
 
-### Tripal CV-Xray 
+### [Tripal CV-Xray](https://github.com/statonlab/tripal_cv_xray)
+
 * Map entities onto Ontologies.
 * For example, create per-organism browsable GO-term trees with links to genes annotated with those GO terms.
 
-### Tripal SSR
+### [Tripal SSR](https://github.com/statonlab/tripal_ssr)
 
-* Load in primer information for amplifying predicted SSRs.
+* Load in primer information for amplifying predicted simple sequence repeats (SSRs).
 
-### Tripal Ortholog
+### [Tripal Ortholog](https://github.com/statonlab/tripal_ortholog)
 
 * Not released, on hiatus.
 * Load and display gene ortholog information.
@@ -75,10 +80,10 @@ This is a huge module that we've split into three submodules:
 * Easily create Chado table specific indexes.
 * Cross-site search!
 
-### Tripal Manage Analyses
+### [Tripal Manage Analyses](https://github.com/statonlab/tripal_manage_analyses)
 * Custom fields for entity lists: analyses, organisms, libraries...
 
-### Tripal cmap field and loader
+### [Tripal cmap field and loader](https://github.com/statonlab/tripal_cmap_loader)
 * Under development.
 * Load and view genetic map data.
 
@@ -92,7 +97,7 @@ This is a huge module that we've split into three submodules:
 * Used at HWG to change feature types, or to convert analyses to sub-types with specialized fields.
 * Supports **collections** to easily convert entities.
 
-### Tripal Curator
+### [Tripal Curator](https://github.com/statonlab/tripal_curator)
 
 * Curation toolbox for Chado properties.
 * Batch alter Chado properties cvterms from local terms to ontological terms.
