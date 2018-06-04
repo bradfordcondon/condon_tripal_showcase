@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Tripal Devseed"
-date:   2018-06-03 16:06:19 -0400
-categories: developer dataset
+img: tripal_cards.jpg
 ---
 
+Tripal DevSeed is a miniature dataset designed to instruct new users for loading data into a Tripal site.  Once loaded, it is ideal for site testing.
 
 ### [Tripal Devseed](https://github.com/statonlab/tripal_dev_mini_dataset)
 

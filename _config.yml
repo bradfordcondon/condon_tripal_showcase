@@ -21,11 +21,20 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tripalproject
 github_username:  bradfordcondon
 
+built-by: bradfordcondon
+
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+permalink: /:title/
+paginate: 6
+paginate_path: /page:num/
+
+# Sass style
+sass:
+  style: compressed
+
+# Ruby Gems
+plugins: [jekyll-paginate, jekyll-seo-tag]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
