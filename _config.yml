@@ -28,6 +28,8 @@ markdown: kramdown
 permalink: /:title/
 paginate: 6
 paginate_path: /page:num/
+destination: docs
+
 
 # Sass style
 sass:
