@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/condon_tripal_showcase/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/condon_tripal_showcase/" rel="alternate" type="text/html" /><updated>2018-06-03T22:19:14-04:00</updated><id>http://localhost:4000/condon_tripal_showcase/</id><title type="html">Tripal Showcase</title><subtitle>Tripal Showcase is a small site for sharing Tripal modules.</subtitle><entry><title type="html">Tripal Devseed</title><link href="http://localhost:4000/condon_tripal_showcase/welcome-to-jekyll/" rel="alternate" type="text/html" title="Tripal Devseed" /><published>2018-06-03T00:00:00-04:00</published><updated>2018-06-03T00:00:00-04:00</updated><id>http://localhost:4000/condon_tripal_showcase/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/condon_tripal_showcase/welcome-to-jekyll/">&lt;p&gt;Tripal DevSeed is a miniature dataset designed to instruct new users for loading data into a Tripal site.  Once loaded, it is ideal for site testing.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="bradfordcondon.github.io/condon_tripal_showcase/feed.xml" rel="self" type="application/atom+xml" /><link href="bradfordcondon.github.io/condon_tripal_showcase/" rel="alternate" type="text/html" /><updated>2018-06-04T12:37:45-04:00</updated><id>bradfordcondon.github.io/condon_tripal_showcase/</id><title type="html">Tripal Showcase</title><subtitle>Tripal Showcase is a small site for sharing Tripal modules.</subtitle><entry><title type="html">Tripal Devseed</title><link href="bradfordcondon.github.io/condon_tripal_showcase/TripalDevSeed/" rel="alternate" type="text/html" title="Tripal Devseed" /><published>2018-06-03T00:00:00-04:00</published><updated>2018-06-03T00:00:00-04:00</updated><id>bradfordcondon.github.io/condon_tripal_showcase/TripalDevSeed</id><content type="html" xml:base="bradfordcondon.github.io/condon_tripal_showcase/TripalDevSeed/">&lt;p&gt;Tripal DevSeed is a miniature dataset designed to instruct new users for loading data into a Tripal site.  Once loaded, it is ideal for site testing.&lt;/p&gt;
 
 &lt;h3 id=&quot;tripal-devseed&quot;&gt;&lt;a href=&quot;https://github.com/statonlab/tripal_dev_mini_dataset&quot;&gt;Tripal Devseed&lt;/a&gt;&lt;/h3&gt;
 
@@ -8,7 +8,7 @@
   &lt;li&gt;Miniature dataset to load all supported Chado data.&lt;/li&gt;
   &lt;li&gt;Detailed, step-by-step guide for loading in Tripal 3.&lt;/li&gt;
   &lt;li&gt;SQL dump to quickly boot a dev site with data.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Tripal DevSeed is a miniature dataset designed to instruct new users for loading data into a Tripal site. Once loaded, it is ideal for site testing.</summary></entry><entry><title type="html">Tripal Analysis Expression</title><link href="http://localhost:4000/condon_tripal_showcase/TripalAnalysisExpression/" rel="alternate" type="text/html" title="Tripal Analysis Expression" /><published>2018-06-02T00:00:00-04:00</published><updated>2018-06-02T00:00:00-04:00</updated><id>http://localhost:4000/condon_tripal_showcase/TripalAnalysisExpression</id><content type="html" xml:base="http://localhost:4000/condon_tripal_showcase/TripalAnalysisExpression/">&lt;p&gt;Tripal Analysis Expression is a module that does things.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Tripal DevSeed is a miniature dataset designed to instruct new users for loading data into a Tripal site. Once loaded, it is ideal for site testing.</summary></entry><entry><title type="html">Tripal Analysis Expression</title><link href="bradfordcondon.github.io/condon_tripal_showcase/TripalAnalysisExpression/" rel="alternate" type="text/html" title="Tripal Analysis Expression" /><published>2018-06-02T00:00:00-04:00</published><updated>2018-06-02T00:00:00-04:00</updated><id>bradfordcondon.github.io/condon_tripal_showcase/TripalAnalysisExpression</id><content type="html" xml:base="bradfordcondon.github.io/condon_tripal_showcase/TripalAnalysisExpression/">&lt;p&gt;Tripal Analysis Expression is a module that does things.&lt;/p&gt;
 
 &lt;h3 id=&quot;tripal-analysis-expression&quot;&gt;&lt;a href=&quot;https://github.com/tripal/tripal_analysis_expression&quot;&gt;Tripal Analysis Expression&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://doi.org/10.5281/zenodo.1115662&quot;&gt;&lt;img src=&quot;https://zenodo.org/badge/DOI/10.5281/zenodo.1115662.svg&quot; alt=&quot;DOI&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -32,7 +32,7 @@
 &lt;ul&gt;
   &lt;li&gt;Deals with the Protocol, Assay, Arraydesign MAGE tables.&lt;/li&gt;
   &lt;li&gt;Needs collaborators!&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Tripal Analysis Expression is a module that does things.</summary></entry><entry><title type="html">Tripal Test Suite</title><link href="http://localhost:4000/condon_tripal_showcase/TripalTestSuite/" rel="alternate" type="text/html" title="Tripal Test Suite" /><published>2018-06-01T00:00:00-04:00</published><updated>2018-06-01T00:00:00-04:00</updated><id>http://localhost:4000/condon_tripal_showcase/TripalTestSuite</id><content type="html" xml:base="http://localhost:4000/condon_tripal_showcase/TripalTestSuite/">&lt;p&gt;Tripal Test suite adds PHPUnit testing and Travis Continuous Integration to your module!&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Tripal Analysis Expression is a module that does things.</summary></entry><entry><title type="html">Tripal Test Suite</title><link href="bradfordcondon.github.io/condon_tripal_showcase/TripalTestSuite/" rel="alternate" type="text/html" title="Tripal Test Suite" /><published>2018-06-01T00:00:00-04:00</published><updated>2018-06-01T00:00:00-04:00</updated><id>bradfordcondon.github.io/condon_tripal_showcase/TripalTestSuite</id><content type="html" xml:base="bradfordcondon.github.io/condon_tripal_showcase/TripalTestSuite/">&lt;p&gt;Tripal Test suite adds PHPUnit testing and Travis Continuous Integration to your module!&lt;/p&gt;
 
 &lt;h3 id=&quot;tripal-test-suite&quot;&gt;&lt;a href=&quot;https://github.com/statonlab/TripalTestSuite&quot;&gt;Tripal Test Suite&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://doi.org/10.5281/zenodo.1257164&quot;&gt;&lt;img src=&quot;https://zenodo.org/badge/DOI/10.5281/zenodo.1257164.svg&quot; alt=&quot;DOI&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -40,7 +40,7 @@
 &lt;ul&gt;
   &lt;li&gt;One command to add PHPunit with access to your Drupal site, and Travis-CI setup.&lt;/li&gt;
   &lt;li&gt;Helper methods, such as &lt;strong&gt;factories&lt;/strong&gt; to generate test Chado data.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Tripal Test suite adds PHPUnit testing and Travis Continuous Integration to your module!</summary></entry><entry><title type="html">Tripal Fields Generator</title><link href="http://localhost:4000/condon_tripal_showcase/TripalFieldsGenerator/" rel="alternate" type="text/html" title="Tripal Fields Generator" /><published>2018-06-01T00:00:00-04:00</published><updated>2018-06-01T00:00:00-04:00</updated><id>http://localhost:4000/condon_tripal_showcase/TripalFieldsGenerator</id><content type="html" xml:base="http://localhost:4000/condon_tripal_showcase/TripalFieldsGenerator/">&lt;p&gt;Tripal Fields Generator is a command line tool for creating Tripal Fields!&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Tripal Test suite adds PHPUnit testing and Travis Continuous Integration to your module!</summary></entry><entry><title type="html">Tripal Fields Generator</title><link href="bradfordcondon.github.io/condon_tripal_showcase/TripalFieldsGenerator/" rel="alternate" type="text/html" title="Tripal Fields Generator" /><published>2018-06-01T00:00:00-04:00</published><updated>2018-06-01T00:00:00-04:00</updated><id>bradfordcondon.github.io/condon_tripal_showcase/TripalFieldsGenerator</id><content type="html" xml:base="bradfordcondon.github.io/condon_tripal_showcase/TripalFieldsGenerator/">&lt;p&gt;Tripal Fields Generator is a command line tool for creating Tripal Fields!&lt;/p&gt;
 
 &lt;h3 id=&quot;tripal-fields-generator&quot;&gt;&lt;a href=&quot;https://github.com/statonlab/fields_generator&quot;&gt;Tripal Fields Generator&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://doi.org/10.5281/zenodo.1200662&quot;&gt;&lt;img src=&quot;https://zenodo.org/badge/DOI/10.5281/zenodo.1200662.svg&quot; alt=&quot;DOI&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -48,4 +48,45 @@
 &lt;ul&gt;
   &lt;li&gt;Specify a CVterm, and this tool creates the Field class, formatter, widget, and &lt;code class=&quot;highlighter-rouge&quot;&gt;fields.info&lt;/code&gt; stub code for it!&lt;/li&gt;
   &lt;li&gt;Connects to your DB to verify term information.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Tripal Fields Generator is a command line tool for creating Tripal Fields!</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Tripal Fields Generator is a command line tool for creating Tripal Fields!</summary></entry><entry><title type="html">Tripal cMap</title><link href="bradfordcondon.github.io/condon_tripal_showcase/Tripalcmap/" rel="alternate" type="text/html" title="Tripal cMap" /><published>2018-05-02T00:00:00-04:00</published><updated>2018-05-02T00:00:00-04:00</updated><id>bradfordcondon.github.io/condon_tripal_showcase/Tripalcmap</id><content type="html" xml:base="bradfordcondon.github.io/condon_tripal_showcase/Tripalcmap/">&lt;p&gt;Load and view genetic map data.&lt;/p&gt;
+
+&lt;h3 id=&quot;tripal-cmap-field-and-loader&quot;&gt;&lt;a href=&quot;https://github.com/statonlab/tripal_cmap_loader&quot;&gt;Tripal cmap field and loader&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Under development.&lt;/li&gt;
+  &lt;li&gt;Load and view genetic map data.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Load and view genetic map data.</summary></entry><entry><title type="html">Tripal SSR</title><link href="bradfordcondon.github.io/condon_tripal_showcase/TripalSSR/" rel="alternate" type="text/html" title="Tripal SSR" /><published>2018-05-02T00:00:00-04:00</published><updated>2018-05-02T00:00:00-04:00</updated><id>bradfordcondon.github.io/condon_tripal_showcase/TripalSSR</id><content type="html" xml:base="bradfordcondon.github.io/condon_tripal_showcase/TripalSSR/">&lt;h3 id=&quot;tripal-ssr&quot;&gt;&lt;a href=&quot;https://github.com/statonlab/tripal_ssr&quot;&gt;Tripal SSR&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Load in primer information for amplifying predicted simple sequence repeats (SSRs).&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Tripal SSR</summary></entry><entry><title type="html">Tripal Ortholog</title><link href="bradfordcondon.github.io/condon_tripal_showcase/TripalOrtholog/" rel="alternate" type="text/html" title="Tripal Ortholog" /><published>2018-05-02T00:00:00-04:00</published><updated>2018-05-02T00:00:00-04:00</updated><id>bradfordcondon.github.io/condon_tripal_showcase/TripalOrtholog</id><content type="html" xml:base="bradfordcondon.github.io/condon_tripal_showcase/TripalOrtholog/">&lt;p&gt;Load and display gene ortholog information.&lt;/p&gt;
+
+&lt;h2 id=&quot;tripal-ortholog&quot;&gt;&lt;a href=&quot;https://github.com/statonlab/tripal_ortholog&quot;&gt;Tripal Ortholog&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Not released, on hiatus.&lt;/li&gt;
+  &lt;li&gt;Load and display gene ortholog information.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Load and display gene ortholog information.</summary></entry><entry><title type="html">Tripal Manage Analyses</title><link href="bradfordcondon.github.io/condon_tripal_showcase/TripalManageAnalyses/" rel="alternate" type="text/html" title="Tripal Manage Analyses" /><published>2018-05-02T00:00:00-04:00</published><updated>2018-05-02T00:00:00-04:00</updated><id>bradfordcondon.github.io/condon_tripal_showcase/TripalManageAnalyses</id><content type="html" xml:base="bradfordcondon.github.io/condon_tripal_showcase/TripalManageAnalyses/">&lt;p&gt;Custom fields for entity lists displayed on organism, analysis, and feature pages.&lt;/p&gt;
+
+&lt;h3 id=&quot;tripal-manage-analyses&quot;&gt;&lt;a href=&quot;https://github.com/statonlab/tripal_manage_analyses&quot;&gt;Tripal Manage Analyses&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Custom fields for entity lists: analyses, organisms, libraries…&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Custom fields for entity lists displayed on organism, analysis, and feature pages.</summary></entry><entry><title type="html">Tripal Elasticsearch</title><link href="bradfordcondon.github.io/condon_tripal_showcase/TripalElasticsearch/" rel="alternate" type="text/html" title="Tripal Elasticsearch" /><published>2018-05-02T00:00:00-04:00</published><updated>2018-05-02T00:00:00-04:00</updated><id>bradfordcondon.github.io/condon_tripal_showcase/TripalElasticsearch</id><content type="html" xml:base="bradfordcondon.github.io/condon_tripal_showcase/TripalElasticsearch/">&lt;p&gt;Manage Elasticsearch for your Tripal data.  Features include cross-site searching, support for nodes and entities.&lt;/p&gt;
+
+&lt;h3 id=&quot;tripal-elasticsearch&quot;&gt;&lt;a href=&quot;https://github.com/tripal/tripal_elasticsearch/&quot;&gt;Tripal Elasticsearch&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://doi.org/10.5281/zenodo.1222187&quot;&gt;&lt;img src=&quot;https://zenodo.org/badge/DOI/10.5281/zenodo.1222187.svg&quot; alt=&quot;DOI&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Manage your elasticsearch instance.&lt;/li&gt;
+  &lt;li&gt;Provides indexes for nodes, entities, and features.&lt;/li&gt;
+  &lt;li&gt;Easily create Chado table specific indexes.&lt;/li&gt;
+  &lt;li&gt;Cross-site search!&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Manage Elasticsearch for your Tripal data. Features include cross-site searching, support for nodes and entities.</summary></entry><entry><title type="html">Tripal Curator</title><link href="bradfordcondon.github.io/condon_tripal_showcase/TripalCurator/" rel="alternate" type="text/html" title="Tripal Curator" /><published>2018-05-02T00:00:00-04:00</published><updated>2018-05-02T00:00:00-04:00</updated><id>bradfordcondon.github.io/condon_tripal_showcase/TripalCurator</id><content type="html" xml:base="bradfordcondon.github.io/condon_tripal_showcase/TripalCurator/">&lt;p&gt;A curation toolbox for Chado properties.&lt;/p&gt;
+
+&lt;h3 id=&quot;tripal-curator&quot;&gt;&lt;a href=&quot;https://github.com/statonlab/tripal_curator&quot;&gt;Tripal Curator&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Curation toolbox for Chado properties.&lt;/li&gt;
+  &lt;li&gt;Batch alter Chado properties cvterms from local terms to ontological terms.&lt;/li&gt;
+  &lt;li&gt;Chado 1.4 will suport cvterms for property &lt;strong&gt;values&lt;/strong&gt;.  Curator lets you convert &lt;strong&gt;text values&lt;/strong&gt; to &lt;strong&gt;Cvterm values&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;reports on property ontology usage by Chado table.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">A curation toolbox for Chado properties.</summary></entry></feed>

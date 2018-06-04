@@ -91,7 +91,7 @@ footer {
     display: inline;
     margin-left: 10px;
     padding: 5px 8px;
-    font-size: 1.25em;
+    font-size: 2em;
     }
 .social:hover {
      opacity: 0.7;
@@ -106,6 +106,10 @@ footer {
 
 .facebook img {
     width: 16px;
+}
+
+.zenodo img {
+    padding-bottom: 10;
 }
 
 .recent ul {

@@ -10,9 +10,9 @@ layout: default
                 <div class="panel panel-default">
                   
                   {% if post.img %}
-                  <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
+                  <img width="100%" height = "100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
                   {% else %}
-                  <img width="100%" src="{{site.baseurl}}/images/webjeda-logo-big.jpg" alt="{{site.title}}">
+                  <img width="100%" height = "100%" src="{{site.baseurl}}/images/tripal_default_2.png" alt="{{site.title}}">
                   {% endif %}
                   
                   <div class="panel-body">
@@ -21,6 +21,18 @@ layout: default
                   
                   <div class="panel-body"><small>
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</small>
+                  </div>
+                  <div class="panel-body">
+                    <span>
+                  {% if post.github %}
+                <a href="{{post.github}}"><li class="social github"><i class="fa fa-github-square"></i></li></a>
+                {% endif %}
+                  {% if post.zenodo_badge %}
+                    {% if post.zenodo_url %}
+                <a href="{{post.zenodo_url}}"><img class="social zenodo" src="{{post.zenodo_badge}}" alt="DOI"></a>
+                    {% endif %}
+                  {% endif %}
+                </span>
                   </div>
                 </div>
                 </a>
