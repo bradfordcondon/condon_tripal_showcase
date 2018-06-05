@@ -10,7 +10,7 @@ You can use this repo as a template for your own show case site!
 * install [jekyll](https://jekyllrb.com/docs/installation/).
 * run `jekyll serve` to test your site.
 * build with `jekyll serve`, and push to your repository.
-* Configure [github pages](https://pages.github.com/)  for your repo.
+* Configure [github pages](https://pages.github.com/)  for your repo.  This site builds to `docs/`, so check that option (or reconfigure the build process).
 
 
 ### post format
