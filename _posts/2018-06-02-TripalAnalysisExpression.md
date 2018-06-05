@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tripal Analysis Expression"
-img: ae_example.png
+img: analysis_expression_heatmap.png
 github: https://github.com/tripal/tripal_analysis_expression
 zenodo_badge: https://zenodo.org/badge/DOI/10.5281/zenodo.1115662.svg
 zenodo_url: https://doi.org/10.5281/zenodo.1115662

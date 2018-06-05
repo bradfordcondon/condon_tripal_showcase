@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tripal Manage Analyses"
-img: 
+img: analysis_field.png
 github: https://github.com/statonlab/tripal_manage_analyses
 ---
 
