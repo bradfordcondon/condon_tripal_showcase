@@ -7,6 +7,7 @@ You can use this repo as a template for your own show case site!
 
 * Clone the repository
 * Post modules in the `_posts` folder.  See below for format.
+* Change variables in `_config.yml`.  In particular set the URL and base URL to your github pages location.
 * install [jekyll](https://jekyllrb.com/docs/installation/).
 * run `jekyll serve` to test your site.
 * build with `jekyll serve`, and push to your repository.

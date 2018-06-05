@@ -16,9 +16,9 @@
 title: Tripal Showcase
 description: >- # this means to ignore newlines until "baseurl:"
   Tripal Showcase is a small site for sharing Tripal modules.
-baseurl: "/condon_tripal_showcase" # the subpath of your site, e.g. /blog
-url: "bradfordcondon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tripalproject
+baseurl: "/hardwoods_tripal_showcase" # the subpath of your site, e.g. /blog
+url: "statonlab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: bradfordcondon
 github_username:  bradfordcondon
 
 built-by: bradfordcondon
