@@ -14,7 +14,11 @@ html,body {
     border-bottom: 1px solid #eee;
 }
 
-
+.card-image {
+    max-height: 300px; 
+    width: auto; 
+    margin: 0 auto;
+}
 
 img {
     max-width: 100%;
@@ -108,7 +112,7 @@ footer {
     width: 16px;
 }
 
-.zenodo img {
+img.zenodo {
     padding-bottom: 10;
 }
 

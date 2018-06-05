@@ -2,11 +2,11 @@
 layout: post
 title:  "Tripal cMap"
 img: 
+github: https://github.com/statonlab/tripal_cmap_loader
 ---
 
 Load and view genetic map data.
 
-### [Tripal cmap field and loader](https://github.com/statonlab/tripal_cmap_loader)
 * Under development.
-* Load and view genetic map data.
-
+* TripalImporter to load map data into chado.
+* Coming soon: a field to display maps.
