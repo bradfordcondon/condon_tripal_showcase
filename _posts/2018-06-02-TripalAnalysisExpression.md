@@ -2,16 +2,14 @@
 layout: post
 title:  "Tripal Analysis Expression"
 img: ae_example.png
+github: https://github.com/tripal/tripal_analysis_expression
+zenodo_badge: https://zenodo.org/badge/DOI/10.5281/zenodo.1115662.svg
+zenodo_url: https://doi.org/10.5281/zenodo.1115662
 ---
 
+Tripal Analysis Expression lets you load in biomaterials and expression data into Chado.  It provides heatmap and bar plot visualizations.
 
-Tripal Analysis Expression is a module that does things.
-
-
-### [Tripal Analysis Expression](https://github.com/tripal/tripal_analysis_expression)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1115662.svg)](https://doi.org/10.5281/zenodo.1115662)
-
-This is a huge module that we've split into three submodules:
+Analysis Expression is a huge module that we've split into three submodules:
 
 #### Tripal Biomaterial
 * Load in NCBI Biosamples in XML format.

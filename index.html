@@ -10,9 +10,9 @@ layout: default
                 <div class="panel panel-default">
                   
                   {% if post.img %}
-                  <img width="100%" height = "100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
+                  <img class="card-image" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
                   {% else %}
-                  <img width="100%" height = "100%" src="{{site.baseurl}}/images/tripal_default_2.png" alt="{{site.title}}">
+                  <img class="card-image" src="{{site.baseurl}}/images/tripal_base.png" alt="{{site.title}}">
                   {% endif %}
                   
                   <div class="panel-body">
