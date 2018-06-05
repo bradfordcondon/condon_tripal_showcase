@@ -1,4 +1,4 @@
-Hello!  This is the code repository for the Tripal modules developed by the Staton laboratory and in use at [Hardwood Genomics](hardwoodgenomics.org).  Our hope is that you'll consider trying out our modules and collaborating with us!
+Hello!   This is the code repository for the [Tripal modules showcase site](https://statonlab.github.io/hardwoods_tripal_showcase/)!  This site showcases Tripal modules developed by the Staton laboratory and in use at [Hardwood Genomics](hardwoodgenomics.org).  Our hope is that you'll consider trying out our modules and collaborating with us!
 
 
 ### Setting up your own site
