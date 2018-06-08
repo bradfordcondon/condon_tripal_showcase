@@ -36,6 +36,11 @@ layout: default
                                 <li class="social github"><i class="fa fa-github-square"></i></li>
                             </a>
                             {% endif %}
+                                  {%if post.see_live %}
+                            <a href="{{post.see_live}}"><li class="social github">
+                                <i class="fa fa-eye" aria-hidden="true"></i></li></a>
+                            {% endif %}
+
                             {% if post.zenodo_badge %}
                             {% if post.zenodo_url %}
                             <a href="{{post.zenodo_url}}">
