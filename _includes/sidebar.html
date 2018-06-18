@@ -8,13 +8,23 @@
         </div>
         <div>
           {% if page.github %}
+                        <div>
                             <a href="{{page.github}}">
                                 <li class="social github"><i class="fa fa-github-square"></i></li>
+                               See the code on Github
+
                             </a>
+                        </div>
                             {% endif %}
                                   {%if page.see_live %}
-                            <a href="{{page.see_live}}"><li class="social github">
-                                <i class="fa fa-eye" aria-hidden="true"></i></li></a>
+                                  <div>
+                            <a href="{{page.see_live}}">
+                                <li class="social github">
+                                <i class="fa fa-eye" aria-hidden="true"></i></li>
+                        See the module working on HWG
+
+                            </a>
+                            </div>
                             {% endif %}
 
                             {% if page.zenodo_badge %}
