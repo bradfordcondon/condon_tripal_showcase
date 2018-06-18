@@ -33,12 +33,12 @@ layout: default
                         <span class="icon-span">
                             {% if post.github %}
                             <a href="{{post.github}}">
-                                <li class="social github"><i class="fa fa-github-square"></i></li>
+                                <li class="social github"><i class="fa fa-github-square" data-placement="top" data-toggle="tooltip" title="See the module code on Github!"></i></li>
                             </a>
                             {% endif %}
                                   {%if post.see_live %}
                             <a href="{{post.see_live}}"><li class="social github">
-                                <i class="fa fa-eye" aria-hidden="true"></i></li></a>
+                                <i class="fa fa-eye" data-placement="top" data-toggle="tooltip" title="See the module in action at HWG" aria-hidden="true"></i></li></a>
                             {% endif %}
 
                             {% if post.zenodo_badge %}
