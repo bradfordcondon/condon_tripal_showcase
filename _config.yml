@@ -28,7 +28,6 @@ markdown: kramdown
 permalink: /:title/
 paginate: 60
 paginate_path: /page:num/
-destination: docs
 default-image: tripal_default.png
 
 # Sass style
