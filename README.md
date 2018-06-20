@@ -10,8 +10,8 @@ You can use this repo as a template for your own show case site!
 * Change variables in `_config.yml`.  In particular set the URL and base URL to your github pages location.
 * install [jekyll](https://jekyllrb.com/docs/installation/).
 * run `jekyll serve` to test your site.
-* build with `jekyll serve`, and push to your repository.
-* Configure [github pages](https://pages.github.com/)  for your repo.  This site builds to `docs/`, so check that option (or reconfigure the build process).
+* build with `jekyll build`, and push to your repository.
+* Configure [github pages](https://pages.github.com/)  for your repo.  This site builds to `_site/` (which is ignored in `.gitignor)`, and Github automatically builds on commit.
 
 
 ### post format
