@@ -10,7 +10,7 @@ see_live: https://hardwoodgenomics.org/organism/Quercus/lobata?tripal_pane=group
 
 Tripal JBrowse Instance provides a Tripal field to link entities to their corresponding JBrowse instances.
 
-This Tripal extension that provides a method for administrators to add a JBrowse link
+This Tripal extension provides a method for administrators to add a JBrowse link
 to certain feature and organism pages. It allows for the pane link to either directly transfer
 the user to the JBrowse instance or show a tab page that contains some description and a direct
 link to the JBrowse instance. 
