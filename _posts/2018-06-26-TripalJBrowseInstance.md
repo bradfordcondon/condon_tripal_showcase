@@ -5,6 +5,7 @@ img: TripalJbrowseInstanceForm.png
 github: https://github.com/statonlab/tripal_jbrowse_instance
 zenodo_url: https://zenodo.org/badge/latestdoi/98675535
 zenodo_badge: https://zenodo.org/badge/DOI/10.5281/zenodo.1296198.svg
+see_live: https://hardwoodgenomics.org/organism/Quercus/lobata?tripal_pane=group_jbrowse
 ---
 
 Tripal JBrowse Instance provides a Tripal field to link entities to their corresponding JBrowse instances.
